@@ -1,5 +1,3 @@
-package sampleTest;
-
 public final class MyDate {
 	// Fields
 	private int day;
